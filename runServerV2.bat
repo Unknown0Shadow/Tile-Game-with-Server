@@ -1,0 +1,1 @@
+java -Djava.library.path=lib\natives -cp lib\jars\*;bin; server.ServerV2 %1
